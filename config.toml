@@ -47,7 +47,7 @@ googleAnalytics = "UA-96267122-2"
 ## Meta Configurations (HTTP Meta tags & OpenGraph)
 [params.meta]
   description = "Site Reliability Engineer at KarrotPay."
-  keywords = "posquit0, bj, bj.park, byungjin, byungjinpark, sre, devops, backend, infrastructure, hacker, engineer, developer, architect"
+  keywords = "Kraibonaut, tk, tk.kali, tristan, tristankali, sre, devops, backend, infrastructure, hacker, engineer, developer, architect, web3, blockchain"
   images = [
     "/images/profile.jpg"
   ]
@@ -98,7 +98,7 @@ googleAnalytics = "UA-96267122-2"
 
 ## Footer Configurations
 [params.footer]
-  copyright = "© 2022 Byungjin Park. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
+  copyright = "© 2022 Tristan Kali. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
   poweredBy = true
 
 
