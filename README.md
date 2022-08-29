@@ -26,4 +26,4 @@
 
 Provided under the terms of the CC BY-NC-SA 4.0 License.
 
-Copyright © 2022, [Tristan Kali](https://kraibonaut.github.io/identity/).
+Copyright © 2022, [Kraibonaut](https://kraibonaut.github.io/identity/).
