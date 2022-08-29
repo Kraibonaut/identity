@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  My personal identity website with :heart: and Hugo
+  My personal identity website made with &#x26a1 and Hugo
 </p>
 
 <div align="center">
