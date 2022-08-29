@@ -11,12 +11,6 @@
 </p>
 
 <div align="center">
-  <a href="https://app.netlify.com/sites/posquit0/deploys">
-    <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/abeefe7a-e215-4994-9b1f-77d255a49b40/deploy-status" />
-  </a>
-  <a href="https://circleci.com/gh/posquit0/identity">
-    <img alt="CircleCI" src="https://circleci.com/gh/posquit0/identity.svg?style=shield" />
-  </a>
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
     <img alt="CC BY-NC-SA 4.0" src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg" />
   </a>
@@ -37,4 +31,4 @@ If you have any questions, feel free to join me at [`#posquit0` on Freenode](irc
 
 Provided under the terms of the CC BY-NC-SA 4.0 License.
 
-Copyright © 2019, [Byungjin Park](http://www.posquit0.com).
+Copyright © 2022, [Tristan Kali](https://kraibonaut.github.io/identity/).
