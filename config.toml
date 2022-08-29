@@ -56,9 +56,9 @@ googleAnalytics = "UA-96267122-2"
 ## Profile Configurations
 [params.profile]
   portrait = "/images/profile.jpg"
-  firstname = "Byungjin"
-  lastname = "Park"
-  title = "Software Architect / Hacker"
+  firstname = "Tristan"
+  lastname = "Kali"
+  title = "Web3 Developer"
   bio = """Current Site Reliability Engineer at start-up company [**당근페이(KarrotPay)**](https://www.daangnpay.com/).
 
   12+ years experience specializing in the backend development, infrastructure automation, and computer hacking/security.
@@ -70,8 +70,8 @@ googleAnalytics = "UA-96267122-2"
 
 ## Contacts Configurations
 [params.contacts]
-  email = "posquit0.bj@gmail.com"
-  github = "posquit0"
+  email = "tristankali@gmail.com"
+  github = "https://github.com/Kraibonaut"
   twitter = "posquit0"
   linkedin = "posquit0"
   # keybase = "posquit0"
