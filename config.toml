@@ -77,7 +77,7 @@ googleAnalytics = "UA-96267122-2"
   # keybase = "posquit0"
   # facebook = "posquit0"
   # stackoverflow = "7919458"
-  instagram = "posquit0.bj"
+  instagram = ""
   # medium = "posquit0"
   # quora = "posquit0"
   # dribbble = "posquit0"
@@ -92,8 +92,8 @@ googleAnalytics = "UA-96267122-2"
   name = "Ask Me Anything"
   url = "https://github.com/posquit0/ama"
 [[params.actions]]
-  name = "Buy Me a Coffee"
-  url = "https://buymeacoff.ee/posquit0"
+  name = "Portfolio                                                                                                  "
+  url = ""
 
 
 ## Footer Configurations
